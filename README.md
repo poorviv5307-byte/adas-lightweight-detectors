@@ -1,6 +1,8 @@
 # Comparative Benchmarking of Lightweight Object Detectors for Real-Time Vehicle Detection on Edge Devices
 
-ADAS project by Poorvika V,T. Vishal, Yoogi Suchiith K,Department of Robotics and AI, Dayananda Sagar University.
+ADAS project by Poorvika V,T. Vishal, Yoogi Suchiith K,
+Department of Robotics and AI,
+Dayananda Sagar University.
 
 ## What this project does
 Advanced driver assistance systems need fast, small and accurate vehicle detectors that run on low-power hardware. This project fine-tunes pretrained lightweight detectors on the **KITTI** dataset and compares them on **accuracy vs FPS vs model size**, then screens their feasibility for **Jetson Nano / Raspberry Pi** class devices.
