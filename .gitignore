@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+runs/
+datasets/
+*.pt
+*.pth
+*.onnx
+*.zip
+*.mp4
+.DS_Store

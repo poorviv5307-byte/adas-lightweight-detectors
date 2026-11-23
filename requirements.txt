@@ -1,0 +1,11 @@
+# Unpinned on purpose: the notebooks install these on Google Colab.
+# Record the exact versions you used with `pip list` before publishing results.
+ultralytics
+torch
+torchvision
+torchmetrics
+pycocotools
+pandas
+matplotlib
+opencv-python-headless
+# NanoDet is cloned from https://github.com/RangiLyu/nanodet by its own notebook
